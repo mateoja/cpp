@@ -21,7 +21,7 @@ int main() {
 
     dom = dom + 15;
 
-    dom += 7; // dom = dom + 7;
+    dom += 7; 
 
     cout << "Wpisz liczbe:";
     cin >> a;
